@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my isef project
 - 🌱 I’m currently learning calculus, linear algebra, microeconomics
 - 👯 I’m looking to collaborate on ...
